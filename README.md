@@ -7,3 +7,9 @@ This repository contains all of the notes taken by <a href="https://github.com/s
 ### Links to my previous work:
 
 [Intro work](https://github.com/sjay3000/javascripting)
+
+
+## Table of Contents
+
+* Week 1
+  * Day 1
